@@ -1,14 +1,4 @@
 ---
 layout: default
 ---
-
-{% include 01-name.md %}
-
-<br>
-
-{% include 02-image.md %}
-
-<br>
-
-{% include 03-links.md %}
-
+![Image of a monarch butterfly on leaves](https://www.sciencemag.org/sites/default/files/styles/article_main_large/public/butterfly_16x9_0.jpg?itok=jZ3DYvGK)
