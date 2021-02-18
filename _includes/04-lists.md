@@ -1,0 +1,4 @@
+- Pancakes
+- Pizza
+- Macaroni and Cheese
+- Hashbrown Casserole
